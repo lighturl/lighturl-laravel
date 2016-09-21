@@ -1,0 +1,19 @@
+{
+    "name": "lighturl/lighturl-laravel",
+    "description": "Open Source Url Shortener for Laravel 5+ & Lumen 5+",
+    "require": {
+        "lighturl/lighturl": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.5",
+        "mockery/mockery": "^0.9.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Engin Kartal",
+            "email": "enginkartal.projects@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
